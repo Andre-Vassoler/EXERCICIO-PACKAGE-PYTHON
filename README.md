@@ -1,4 +1,4 @@
-### 📦 Exercício com Packages
+## 📦 Exercício com Packages
 
 Este exercício demonstra a criação e utilização de um package em Python.  
 Foi utilizada uma estrutura modular contendo um módulo com dados de produtos, que são importados no arquivo principal.
